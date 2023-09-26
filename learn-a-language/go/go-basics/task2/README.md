@@ -4,10 +4,6 @@
 
 Go, colloquially known as Golang, is a statically typed, compiled language developed by Google. Its simplicity, efficiency, and strong standard library make it a popular choice for various applications, including web services, DevOps tools, and more. In this article, we'll guide you through writing your very first Go program: a simple application that prints "Hello, DevOps!".
 
-### **Prerequisites**
-
-Before we dive in, ensure you have Go installed on your system. If you haven't set it up yet, you can refer to our previous article on **[Setting Up Go on macOS](https://chat.openai.com/c/2db51214-9a42-408e-97dd-32619a0d8a6c#)**.
-
 ### **Step-by-Step Guide to Your First Go Program**
 
 1. **Creating the Go File**:

@@ -7,6 +7,23 @@
 *.o
 *.so
 
+# Go specific
+*.a
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+*.test
+*.out
+
+# Go dependency directory
+vendor/
+
+# Go build directories
+bin/
+pkg/
+
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source

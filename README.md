@@ -472,7 +472,7 @@
     
     By the end of these tasks, you'll have a comprehensive understanding of these networking concepts from a DevOps perspective. Remember, networking is a vast field, and while these tasks provide a solid foundation, there's always more to explore. Engage with online courses, tutorials, and community forums to deepen your understanding. Always practice in real-world scenarios to solidify your skills.
     
-- [ ] 8. Serverless
+- [x] 8. Serverless
     
     ### **1. Cloudflare Workers**
     
@@ -528,7 +528,7 @@
     
     By the end of these tasks, you'll have hands-on experience with serverless platforms across multiple cloud providers. Remember, serverless is about more than just functions; it's a paradigm shift in how applications are built and deployed. As you progress, consider exploring more advanced topics, such as cold starts, deployment frameworks (like Serverless Framework or AWS SAM), and best practices for serverless architecture. Engage with the community, read case studies, and always practice in real-world scenarios to solidify your understanding.
     
-- [ ] 9. Infrastructure Provisioning
+- [x] 9. Infrastructure Provisioning
     
     ### **1. AWS CDK (Cloud Development Kit)**
     
@@ -584,7 +584,7 @@
     
     By the end of these tasks, you'll have hands-on experience with some of the leading infrastructure provisioning tools in the DevOps landscape. Remember, the principles of IaC remain consistent across tools, but each tool has its nuances and strengths. As you progress, consider exploring more advanced topics, such as managing secrets, optimizing costs, and ensuring high availability. Engage with the community, follow best practices, and always practice in real-world scenarios to solidify your skills.
     
-- [ ] 10. Configuration Management
+- [x] 10. Configuration Management
     
     ### **1. Ansible Basics**
     

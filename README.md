@@ -647,7 +647,7 @@
     
     By the end of these tasks, you'll have a comprehensive understanding of Ansible from a DevOps perspective. Remember, Ansible is vast, and there's always more to learn. Engage with the community, explore advanced topics, and always practice in real-world scenarios to solidify your understanding.
     
-- [ ] 11. Learn some CI/CD Tool
+- [x] 11. Learn some CI/CD Tool
     
     ### **1. Jenkins**
     
@@ -697,7 +697,7 @@
     
     By the end of these tasks, you'll have hands-on experience with several leading CI/CD tools and will understand their strengths and use cases. Remember, the principles of CI/CD remain consistent across tools, but each tool has its nuances and strengths. Engage with the community, explore advanced features, and always practice in real-world scenarios to solidify your understanding.
     
-- [ ] 12. Secret Management
+- [x] 12. Secret Management
     
     ### **1. Vault Basics**
     
@@ -764,7 +764,7 @@
     
     By the end of these tasks, you'll have a comprehensive understanding of Vault from a DevOps perspective. Remember, secret management is a critical aspect of security, and understanding the nuances of tools like Vault is essential. Engage with the community, explore the official documentation, and always practice in real-world scenarios to solidify your understanding.
     
-- [ ] 13. Infrastructure Monitoring
+- [x] 13. Infrastructure Monitoring
     
     ### **1. Prometheus**
     
@@ -818,7 +818,7 @@
     
     By the end of these tasks, you'll have hands-on experience with some of the leading infrastructure monitoring tools in the DevOps landscape. Remember, monitoring is about more than just collecting metrics; it's about gaining insights, ensuring reliability, and proactively addressing issues. Engage with the community, explore advanced features, and always practice in real-world scenarios to solidify your understanding.
     
-- [ ] 14. Application Monitoring
+- [x] 14. Application Monitoring
     
     ### **1. Datadog**
     
@@ -878,7 +878,7 @@
     
     By the end of these tasks, you'll have a comprehensive understanding of application monitoring and how to leverage these tools to gain insights into your applications. Remember, monitoring is not just about collecting data; it's about understanding and acting on it. Engage with the community, explore advanced features, and always practice in real-world scenarios to solidify your understanding.
     
-- [ ] 15. Logs Management
+- [x] 15. Logs Management
     
     ### **1. Loki**
     
@@ -931,7 +931,7 @@
     
     By the end of these tasks, you'll have a comprehensive understanding of log management using Loki and the Elastic Stack. Logs provide invaluable insights into the behavior and health of applications and infrastructure, so mastering these tools is crucial for any DevOps engineer. Engage with the community, explore advanced features, and always practice in real-world scenarios to solidify your understanding.
     
-- [ ] 16. Container Orchestration
+- [x] 16. Container Orchestration
     
     ### **1. Introduction**
     
@@ -988,7 +988,7 @@
     
     By the end of these tasks, you'll have a comprehensive understanding of Kubernetes and its ecosystem. Remember, Kubernetes is vast, and continuous hands-on practice is key to mastering it. Engage with the community, explore the official documentation, and always practice in real-world scenarios to solidify your understanding.
     
-- [ ] 17. Artifact Management
+- [x] 17. Artifact Management
     
     ### **1. Introduction to Artifact Management**
     
@@ -1042,7 +1042,7 @@
     
     By the end of these tasks, you'll have a comprehensive understanding of artifact management using Artifactory. Remember, managing artifacts efficiently is crucial for a smooth and optimized DevOps workflow. Engage with the community, explore the official documentation, and always practice in real-world scenarios to solidify your understanding.
     
-- [ ] 18. GitOps
+- [x] 18. GitOps
     
     ### **1. Introduction to GitOps**
     
@@ -1097,7 +1097,7 @@
     
     By the end of these tasks, you'll have a comprehensive understanding of GitOps using ArgoCD. Remember, GitOps is not just about tooling but also about adopting a mindset where Git is the central authority for all infrastructure and application changes. Engage with the community, explore the official documentation, and always practice in real-world scenarios to solidify your understanding.
     
-- [ ] 19. Service Mesh
+- [x] 19. Service Mesh
     
     ### **1. Introduction to Service Mesh**
     
@@ -1156,7 +1156,7 @@
     
     By the end of these tasks, you'll have a comprehensive understanding of service meshes using both Consul and Istio. Service meshes add a layer of complexity but offer invaluable features for large-scale microservices deployments. Engage with the community, explore the official documentation, and always practice in real-world scenarios to solidify your understanding.
     
-- [ ] 20. Cloud Design Patterns
+- [x] 20. Cloud Design Patterns
     
     ### **1. Introduction to Cloud Design Patterns**
     
